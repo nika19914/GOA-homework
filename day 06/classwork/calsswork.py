@@ -12,3 +12,4 @@ num01=int(input("enter first number: "))
 num02=int(input("enter second number: "))
 chose_number=int(input("chose any action like, +, -, *, /: "))
 
+print("A") if num01 > num02 else print("=") if num01 == num02 else print("B")

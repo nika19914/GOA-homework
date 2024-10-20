@@ -8,7 +8,7 @@ print( num1 - num2 )
 print( num1 * num2 )
 
 print( num2 + num2)
-name= nika
+
 
 print("nika kakhadze")
 print("nika kakhadze")
@@ -20,4 +20,17 @@ print("nika kakhadze")
 print("nika kakhadze")
 print("nika kakhadze")
 print("nika kakhadze")
+
+print("saba davitadze")
+print("saba davitadze")
+print("saba davitadze")
+print("saba davitadze")
+print("saba davitadze")
+print("saba davitadze")
+print("saba davitadze")
+print("saba davitadze")
+print("saba davitadze")
+print("saba davitadze")
+
+
 
