@@ -31,7 +31,7 @@
     #num2 = num2 
     
     # while ციკლისა და input-ის საშვალებით მომხარებელს შემოატანინეთ პაროლი სანამ არ იქნება ის "goa123"-ის ტოლი
-real_password=("goa123")
-password=input("enter your password: ")
-while password != real_password:
-     print(password)
+#real_password=("goa123")
+#password=input("enter your password: ")
+#while password != real_password:
+     #print(password)
