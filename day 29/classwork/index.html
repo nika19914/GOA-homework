@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+    <body>
+
+
+            <form>
+ 
+                    <br />
+                    <!-- თეგი HTML-ში გამოიყენება, რომ მიაწვდოს მომხმარებელს ინფორმაცია ტექსტურ ფორმატში ფორმის ელემენტებზე, რაც აუმჯობესებს ხელმისაწვდომობას-->
+                    <label for="name">Enter your Name</label><br>
+                    <!-- id ატრიბუტი HTML-ში საშუალებას იძლევა, რომ ელემენტს ჰქონდეს უნიკალური სახელი, რაც მას მარტივად მოძებნის და მართვის საშუალებას გაწვდობს. -->
+                    <input id="name" type="text" placeholder="Name" name="name" required/><br><br>
+
+                    <label for="surname">Enter your surname</label><br>
+                    <input id="surname" type="text" placeholder="Last name" name="surname" required/><br><br>
+
+                    <label for="email">Enter your email</label><br>
+                    <input id="email" type="email" placeholder="Email Edrres" name="email" required/><br><br>
+
+                    <label for="password">Enter your password</label><br>
+                    <input id="password" type="password" placeholder="Password" name="Password" required/>
+                    <!-- <br> - break line – ეს არის თგი რომელიც წყვეტს ხაზს -->
+
+                    <br />
+                
+                    <br />
+
+                    <input type="radio" id="male" value="male" name="gender">
+                    <label for="male">Male</label>
+                
+                    <input type="radio"id="female" value="female" name="gender">
+                    <label for="male">Female</label>
+
+                    <br />
+                
+                
+                    <select name="city"> 
+
+                    <option value="BA" selected>Batumi</option>
+                    <option value="KU">Kutaisi</option>
+                    <option value="CHA">Chaqvi</option>
+                    <option value="QO">Qobuleti</option>               
+                    <option value="TB">Tbilisi</option>
+
+                    </select>
+
+
+
+                    <button>Creat account</button>
+
+
+    
+
+            </form>
+        </body>
+</html>
