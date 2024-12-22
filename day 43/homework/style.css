@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; 
+
+}
+
+.section {
+    background-color: #5cdb95; 
+    color: white;
+    text-align: center;
+    border-radius: 50px;
+
+    
+
+}
+
+.section h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.section p {
+    margin: 10px 0;
+}
+
+.section button {
+    background-color: #ff847c; 
+    color: white;
+    border: none;
+ 
+    border-radius: 5px;
+}
