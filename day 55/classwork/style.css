@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f9f9f9;
+}
+
+.container {
+    display: flex;
+    gap: 10px; 
+}
+
+.card {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    width: 150px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card p {
+    margin: 0;
+    font-size: 14px;
+    color: #888;
+}
+
+.card h2 {
+    margin: 10px 0 0;
+    font-size: 24px;
+}
+
+.green {
+    border-top: 4px solid #4caf50; 
+}
+
+.blue {
+    border-top: 4px solid #2196f3; 
+}
+
+.purple {
+    border-top: 4px solid #9c27b0; 
+}
+
+.red {
+    border-top: 4px solid #f44336;
+}

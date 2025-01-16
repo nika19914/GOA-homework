@@ -1,0 +1,11 @@
+ol { 
+    list-style: decimal; margin-left: 20px; 
+}
+
+ul { 
+    list-style: disc; margin-left: 20px; 
+}
+
+li {  
+    font-size: 16px; line-height: 1.5; 
+}
